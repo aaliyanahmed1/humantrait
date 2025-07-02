@@ -1,5 +1,4 @@
-# New Test Project
-
+#Humin-Trait-Anlysis
 This repository contains a Python-based project with several components including an application script, upload functionality, and machine learning model.
 
 ## Project Structure
