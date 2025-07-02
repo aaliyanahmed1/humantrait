@@ -1,0 +1,64 @@
+{
+    "filename": "test.jpg",
+    "gender": [
+        {
+            "name": "male",
+            "value": "82% \u2013 87%"
+        }
+    ],
+    "ethnicity": [
+        {
+            "name": "White",
+            "value": "88% \u2013 93%"
+        }
+    ],
+    "age": "22 \u2013 25",
+    "height": "160 \u2013 170",
+    "face": "80% \u2013 85%",
+    "traits": [
+        {
+            "name": "intelligence",
+            "percentage": "75% \u2013 100%"
+        },
+        {
+            "name": "confidence",
+            "percentage": "13% \u2013 16%"
+        },
+        {
+            "name": "cooperativeness",
+            "percentage": "57% \u2013 85%"
+        },
+        {
+            "name": "celibacy",
+            "percentage": "4% \u2013 9%"
+        },
+        {
+            "name": "attractiveness",
+            "percentage": "39% \u2013 51%"
+        },
+        {
+            "name": "big_spender",
+            "percentage": "31% \u2013 62%"
+        },
+        {
+            "name": "presentable",
+            "percentage": "44% \u2013 63%"
+        },
+        {
+            "name": "muscle_percentage",
+            "percentage": "3% \u2013 5%"
+        },
+        {
+            "name": "fat_percentage",
+            "percentage": "2% \u2013 2%"
+        },
+        {
+            "name": "dominance",
+            "percentage": "55% \u2013 69%"
+        },
+        {
+            "name": "power",
+            "percentage": "54% \u2013 81%"
+        }
+    ]
+}
